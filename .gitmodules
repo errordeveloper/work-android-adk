@@ -1,0 +1,12 @@
+[submodule "modules/device-common"]
+	path = modules/device-common
+	url = git://android.git.kernel.org/device/common.git
+[submodule "modules/device-google-accessory-demokit"]
+	path = modules/device-google-accessory-demokit
+	url = git://android.git.kernel.org/device/google/accessory/demokit.git
+[submodule "modules/device-google-accessory-arduino"]
+	path = modules/device-google-accessory-arduino
+	url = git://android.git.kernel.org/device/google/accessory/arduino.git
+[submodule "modules/device-sample"]
+	path = modules/device-sample
+	url = git://android.git.kernel.org/device/sample.git
