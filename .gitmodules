@@ -10,3 +10,6 @@
 [submodule "modules/device-sample"]
 	path = modules/device-sample
 	url = git://android.git.kernel.org/device/sample.git
+[submodule "modules/lufa-lib"]
+	path = modules/lufa-lib
+	url = git://github.com/abcminiuser/lufa-lib.git
