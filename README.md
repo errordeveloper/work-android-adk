@@ -15,9 +15,12 @@
   This repo was cloned from a github mirror, there is an official LUFA repo
   [in Google Code SVN](http://lufa-lib.googlecode.com/svn)
 
-## Alternatives
+## Various Alternatives
 
 [V-USB](http://www.obdev.at/products/vusb/index.html) may be considered as
-an alternative to LUFA, on AVR devices which do not have dedicated USB port.
+an alternative to LUFA, on AVR devices which do not have a dedicated USB port.
 
 ![Circuit Wiring for V-USB using ATtiny2313](http://www.obdev.at/Images/vusb/circuit-zoomed.gif)
+
+Also, the [AVR USB Modem](http://avrusbmodem.googlecode.com/svn/trunk) project has
+achieved some integration of Contiki with LUFA stack.
