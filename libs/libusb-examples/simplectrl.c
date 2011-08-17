@@ -31,8 +31,12 @@
 #define IN 0x85
 #define OUT 0x07
 
-#define VID 0x18D1
-#define PID 0x4E22
+// HTC Wildfire
+#define VID 0x0bb4
+#define PID 0x0ff9
+
+//#define VID 0x18D1
+//#define PID 0x4E22
 
 #define ACCESSORY_PID 0x2D01
 #define ACCESSORY_PID_ALT 0x2D00
