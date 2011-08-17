@@ -15,6 +15,11 @@
   This repo was cloned from a github mirror, there is an official LUFA repo
   [in Google Code SVN](http://lufa-lib.googlecode.com/svn)
 
+  There is a [thread](http://groups.google.com/group/lufa-support/browse_thread/thread/6276262ccfa59c6a)
+  which dicussed the issues of using LUFA with Android ADK, and the code under
+  `modules/lufa-lib/trunk/Demos/Host/Incomplete/AndroidAccessoryHost` does
+  already implement the ADK protocol.
+
 ## Various Alternatives
 
 [V-USB](http://www.obdev.at/products/vusb/index.html) may be considered as
